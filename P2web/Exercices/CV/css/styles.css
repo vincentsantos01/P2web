@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'MandoulBrush';
+  src: url('MandoulBrush.otf');
+ }
+ h1,h2,h4,ul,body,a,p
+ {
+  font-family: 'MandoulBrush';
+ }
 h1:hover
 {
   color: blue;
