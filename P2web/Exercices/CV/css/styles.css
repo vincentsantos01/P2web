@@ -16,6 +16,10 @@ h2
   border: 4px blue solid;
   text-align: center;
 }
+h4
+{
+  text-align: center;
+}
 img
 {
   display: block;
@@ -30,7 +34,7 @@ ul
 .competences:hover
 {
   color: red;
-  text-align: left;
+  text-align: right;
 }
 body
 {
